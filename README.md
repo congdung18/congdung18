@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student in VNU-HCMUS, currently working on DevOps and Platform, with interest in Quantum computing.
+A Student in VNU-HCMUS, currently working on DevOps and Platform, with interest in Quantum computing/HPC.
 
 
 ## 🌐 Socials:
